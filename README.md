@@ -9,7 +9,7 @@
 - [ ] S1.03 - Installation d'un poste pour le développement
 - [ ] S1.04 - Création d'une base de données
 - [x] S1.05 - Recueil de besoins
-- [x] S1.06 - Découverte de l'environnement économique et écologique
+- [x] S1.06 - Découverte de l'environnement économique et écologique (en cours)
 
 ## Semestre 2 - BUT1 Informatique
 
