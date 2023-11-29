@@ -6,12 +6,12 @@
 
 ## Semestre 1 - BUT1 Informatique
 *La coche représente si la SAÉ a été réalisée.*
-- [x] S1.01 - [Implémentation d'un besoin client](S1.01%20-%20Implémentation%20d'un%20besoin%20client/README.md)
-- [ ] S1.02 - [Comparaison d'apporches algorithmiques](S1.02%20-%20Comparaison%20d'apporches%20algorithmiques/README.md)
-- [ ] S1.03 - [Installation d'un poste pour le développement](S1.03%20-%20Installation%20d'un%20poste%20pour%20le%20développement/README.md)
-- [ ] S1.04 - [Création d'une base de données](S1.04%20-%20Création%20d'une%20base%20de%20données/README.md)
-- [x] S1.05 - [Recueil de besoins](S1.05%20-%20Recueil%20de%20besoins/README.md)
-- [x] S1.06 - [Découverte de l'environnement économique et écologique (en cours)](S1.06%20-%20Découverte%20de%20l'environnement%20économique%20et%20écologique/README.md)
+- [x] S1.01 - [Implémentation d'un besoin client](S1.01%20-%20Implémentation%20d'un%20besoin%20client)
+- [ ] S1.02 - [Comparaison d'apporches algorithmiques](S1.02%20-%20Comparaison%20d'apporches%20algorithmiques)
+- [ ] S1.03 - [Installation d'un poste pour le développement](S1.03%20-%20Installation%20d'un%20poste%20pour%20le%20développement)
+- [ ] S1.04 - [Création d'une base de données](S1.04%20-%20Création%20d'une%20base%20de%20données)
+- [x] S1.05 - [Recueil de besoins](S1.05%20-%20Recueil%20de%20besoins)
+- [x] S1.06 - [Découverte de l'environnement économique et écologique (en cours)](S1.06%20-%20Découverte%20de%20l'environnement%20économique%20et%20écologique)
 
 ## Semestre 2 - BUT1 Informatique
 
