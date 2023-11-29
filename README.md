@@ -11,4 +11,27 @@
 - [x] S1.05 - Recueil de besoins
 - [x] S1.06 - Découverte de l'environnement économique et écologique
 
-## Semestre 1 - BUT1 Informatique
+## Semestre 2 - BUT1 Informatique
+
+- [ ] S2.01 - Développement d'une application
+- [ ] S2.02 - Exploration algorithmique d'un problème
+- [ ] S2.03 - Installation de services réseau
+- [ ] S2.04 - Exploitation d'une base de données
+- [ ] S2.05 - Gestion d'un projet
+- [ ] S2.06 - Organisation d'un travail d'équipe
+
+## Semestre 3 - BUT1 Informatique
+
+- à venir...
+  
+## Semestre 4 - BUT1 Informatique
+
+- à venir...
+  
+## Semestre 5 - BUT1 Informatique
+
+- à venir...
+  
+## Semestre 6 - BUT1 Informatique
+
+- à venir...
