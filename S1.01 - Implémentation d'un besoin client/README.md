@@ -8,7 +8,6 @@ SAÉ permet une première mise en pratique du développement autour d'un besoin 
 - Le travail a réalisé est à faire en groupe constitué de 3 personnes.
 - Le travail à produire est : le code Java et de la documentation.
 - Temps pour réaliser tout cela : 16h.
--
 
 # Context du projet :
 
