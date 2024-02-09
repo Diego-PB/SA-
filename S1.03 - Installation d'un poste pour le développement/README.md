@@ -19,6 +19,7 @@ Au lancement du script, un menu devra apparaitre laissant le choix a l'utilisate
 
 Ses actions son des manipulations sur des repertoires, sur des fichiers (l'element 'fichier' ainsi que son contenu).
 De nombreuse verification en lien avec les permissions d'acces au different element doivent etre effectué ainsi que 
-l
+des verifications sur l'existance de ces fichiers/repertoires
 
 # Processus de travail :
+
